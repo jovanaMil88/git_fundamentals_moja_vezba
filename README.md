@@ -1,0 +1,1 @@
+# git_fundamentals_moja_vezba
